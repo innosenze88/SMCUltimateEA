@@ -1,0 +1,44 @@
+# Compiled files
+*.ex5
+*.ex4
+*.mq4
+
+# Backtest results
+*.htm
+*.html
+
+# IDE
+.vscode/
+.idea/
+*.user
+*.ncb
+*.sln
+*.suo
+*.vcproj
+*.vcxproj
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+*~
+*.swp
+*.swo
+
+# Log files
+*.log
+.log/
+
+# Temporary files
+*.temp
+temp/
+tmp/
+
+# MT5 specific
+tester/
+history/
+profiles/
